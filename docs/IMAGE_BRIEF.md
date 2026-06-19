@@ -12,6 +12,8 @@ approves a redacted screenshot set.
 ## Visual Direction
 
 - Protective, calm, technical, and human.
+- Carrot-guided Big Stick identity with the anime-style Black woman/carrot icon
+  as the lead mark for GitHub and WordPress visuals.
 - Abstract listening, custody, review, and mirror-safe export motifs.
 - Warm dark neutrals with confident accent colors.
 - Dignified representation if people are included; avoid stereotypes,
@@ -30,9 +32,12 @@ approves a redacted screenshot set.
 ## Future Canva Polish
 
 The current image pack is public-safe and usable now. Future Canva work should
-polish or resize the existing direction rather than replacing it with generic
-SaaS imagery. The detailed prompt and resize plan is recorded at
+polish or resize the existing carrot-guided direction rather than replacing it
+with generic SaaS imagery. The detailed prompt and resize plan is recorded at
 `docs/CANVA_ASSET_PLAN.md`.
+
+Current Canva editable guide:
+`https://www.canva.com/d/_7RjrPawykYakJ3`
 
 ## Fallback
 

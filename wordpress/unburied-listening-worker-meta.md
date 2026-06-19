@@ -20,6 +20,15 @@ infrastructure inside Big Stick and Unburied.
 Suggested featured image:
 `assets/hero/hero-image.png`
 
+Suggested Open Graph image:
+`assets/social/social-card.png`
+
+Visual guide:
+`assets/icons/project-icon.png`
+
+Canva editable guide:
+`https://www.canva.com/d/_7RjrPawykYakJ3`
+
 Image alt text: Public-safe hero for Unburied Listening Worker showing private
 intake, protected review, and mirror-safe context.
 

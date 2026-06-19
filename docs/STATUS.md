@@ -37,6 +37,10 @@ The repository includes a complete public-safe visual package:
 - `assets/diagrams/public-private-boundary.svg`
 - `assets/gallery/` selected Big Stick / Unburied / Fightback visuals
 
+The hero, banner, and social card have been refreshed from the carrot-guided
+Big Stick identity direction. Canva editable guide:
+`https://www.canva.com/d/_7RjrPawykYakJ3`
+
 No private screenshots, transcripts, dashboards, credentials, or real records
 are used.
 

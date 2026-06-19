@@ -69,6 +69,10 @@ surface, with:
   image, banner, social card, workflow diagrams, and gallery visuals.
 - Status, image, Canva, WordPress, and launch-checklist docs updated to reflect
   the published docs-only public surface and current visual package.
+- Canva guide created from `assets/icons/project-icon.png`:
+  `https://www.canva.com/d/_7RjrPawykYakJ3`
+- Hero, GitHub banner, and social card regenerated with the carrot icon as the
+  visual guide for GitHub and the held WordPress draft.
 
 ## What I Intentionally Did Not Touch
 
@@ -106,8 +110,8 @@ page. Do not present it as a public product or downloadable app.
 ## Image Recommendation
 
 Use the approved existing Big Stick, Unburied, and Fightback brand visuals plus
-the abstract workflow diagrams and PNG public-surface visual package. Do not
-use screenshots or private records.
+the carrot-guided PNG public-surface visual package, abstract workflow diagrams,
+and existing ecosystem panels. Do not use screenshots or private records.
 
 Selected visuals:
 

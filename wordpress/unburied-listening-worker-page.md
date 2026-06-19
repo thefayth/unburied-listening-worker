@@ -38,11 +38,21 @@ Suggested image:
 
 `assets/hero/hero-image.png`
 
+Visual guide:
+
+`assets/icons/project-icon.png`
+
 Alt text: Public-safe hero for Unburied Listening Worker showing private intake,
 protected review, and mirror-safe context.
 
+Canva editable guide:
+
+`https://www.canva.com/d/_7RjrPawykYakJ3`
+
 Additional existing visuals:
 
+- `assets/banners/github-banner.png`
+- `assets/social/social-card.png`
 - `assets/brand/bigstick/hero-panel.svg`
 - `assets/brand/fightback/hero-panel.svg`
 

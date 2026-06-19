@@ -23,6 +23,12 @@ Featured image recommendation:
 Open Graph image recommendation:
 `assets/social/social-card.png`
 
+Icon / visual guide recommendation:
+`assets/icons/project-icon.png`
+
+Canva editable guide:
+`https://www.canva.com/d/_7RjrPawykYakJ3`
+
 Alt text: Public-safe hero for Unburied Listening Worker showing private intake,
 protected review, and mirror-safe context.
 

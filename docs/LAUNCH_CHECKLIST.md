@@ -83,11 +83,15 @@ All rights reserved. No public license granted.
 
 Existing project visuals were audited in `docs/IMAGE_ASSET_AUDIT.md`.
 The GitHub repo now uses approved existing Big Stick, Unburied, and Fightback
-brand visuals plus public-safe abstract diagrams and PNG visual-package assets.
+brand visuals plus public-safe abstract diagrams and carrot-guided PNG
+visual-package assets.
 
 ## Canva Asset Plan
 
 `docs/CANVA_ASSET_PLAN.md` is ready for future Canva polish/resizing.
+
+Current Canva editable guide:
+`https://www.canva.com/d/_7RjrPawykYakJ3`
 
 ## WordPress Page Status
 

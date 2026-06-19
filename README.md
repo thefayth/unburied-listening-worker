@@ -56,7 +56,10 @@ Fightback visual system.
 ## Public Visual Package
 
 The public visual package is intentionally composed from approved existing
-Big Stick / Unburied / Fightback assets plus public-safe branded diagrams:
+Big Stick / Unburied / Fightback assets plus public-safe branded diagrams. The
+current hero, banner, and social card use the Big Stick carrot icon as the
+visual guide so the public surface feels tied to the desktop app identity, not
+like a generic infrastructure repo.
 
 - [Hero image](assets/hero/hero-image.png)
 - [GitHub banner](assets/banners/github-banner.png)
@@ -64,6 +67,8 @@ Big Stick / Unburied / Fightback assets plus public-safe branded diagrams:
 - [Project icon](assets/icons/project-icon.png)
 - [Workflow overview](assets/diagrams/workflow-overview.svg)
 - [Public/private boundary](assets/diagrams/public-private-boundary.svg)
+
+Canva editable guide: [Unburied Listening Worker Carrot Visual Guide](https://www.canva.com/d/_7RjrPawykYakJ3).
 
 ## What Is Public Here
 

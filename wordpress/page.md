@@ -11,6 +11,9 @@ ecosystem.
 
 Recommended hero image: `assets/hero/hero-image.png`
 
+Visual guide: the Big Stick carrot icon, carried through the hero, GitHub
+banner, and social card.
+
 ## What This Project Is
 
 It is a private companion worker for controlled media, transcript, and social
@@ -51,6 +54,7 @@ remains draft-only until Faith reviews and approves it.
 - Hero image: `assets/hero/hero-image.png`
 - GitHub banner: `assets/banners/github-banner.png`
 - Social card: `assets/social/social-card.png`
+- Project icon / carrot guide: `assets/icons/project-icon.png`
 - Unburied archive intelligence artwork: `assets/brand/unburied/hero-panel.svg`
 - Big Stick command board artwork: `assets/brand/bigstick/hero-panel.svg`
 - Fightback analog public record artwork:
@@ -85,3 +89,8 @@ reuse permission is granted.
 
 For private discussion, partnership review, press/background context, or future
 pilot consideration, contact Faith through her official channels.
+
+## Canva Working Guide
+
+Editable guide for future resizing and polishing:
+`https://www.canva.com/d/_7RjrPawykYakJ3`

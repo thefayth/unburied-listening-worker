@@ -24,6 +24,13 @@ Selected public-surface placements:
 - Icon: `assets/icons/project-icon.png`.
 - Gallery: `assets/gallery/`.
 
+Editable Canva guide: `https://www.canva.com/d/_7RjrPawykYakJ3`
+
+The carrot icon is the current lead identity anchor for GitHub and WordPress
+visuals. It keeps the public surface warm, human, Black, playful, and
+recognizably Big Stick while the surrounding copy and boundary diagrams keep
+the protected-infrastructure posture clear.
+
 ## Personality
 
 - Protective
@@ -51,6 +58,8 @@ Selected public-surface placements:
 - Warm control-room mood rather than generic SaaS.
 - Existing command-board, archive, and public-record visuals from the Big Stick
   ecosystem.
+- The carrot as a Big Stick identity marker: bold, memorable, and not generic
+  SaaS.
 
 ## Avoid
 

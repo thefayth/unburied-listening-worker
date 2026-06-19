@@ -21,10 +21,18 @@ Recommended existing visuals:
 - `assets/hero/hero-image.png`
 - `assets/social/social-card.png`
 - `assets/banners/github-banner.png`
+- `assets/icons/project-icon.png`
 - `assets/brand/unburied/hero-panel.svg`
 - `assets/brand/bigstick/hero-panel.svg`
 - `assets/brand/fightback/hero-panel.svg`
 - `assets/brand/unburied/logo-mark.svg`
+
+Visual direction: use the carrot-guided hero first, then supporting Big Stick /
+Unburied / Fightback gallery visuals lower on the page. Keep this as a held
+draft until Faith approves publishing.
+
+Canva editable guide:
+`https://www.canva.com/d/_7RjrPawykYakJ3`
 
 Recommended path:
 

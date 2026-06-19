@@ -19,3 +19,6 @@ Current assets:
 - `gallery/`: selected existing ecosystem visuals.
 
 Prompt briefs live in `assets/image-prompts/`.
+
+Current Canva editable guide:
+`https://www.canva.com/d/_7RjrPawykYakJ3`

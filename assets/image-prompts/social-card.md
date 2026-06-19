@@ -8,19 +8,20 @@ Placement: Open graph / social card.
 
 Aspect ratio: 1200x630.
 
-Style direction: Minimal abstract diagram with strong protective boundary.
+Style direction: Readable carrot-guided Big Stick social card with a strong
+protective boundary.
 
 Prompt: Create an original 1200 by 630 social preview card for "Unburied
-Listening Worker." Use abstract shapes to show private intake flowing into a
-protected review chamber and then into a small mirror-safe public summary. Make
-it warm, protective, technical, and calm. Include no sensitive data and no
-readable UI.
+Listening Worker." Use the Big Stick carrot guide image as the identity anchor
+and abstract shapes to show private intake flowing into a protected review
+chamber and then into a small mirror-safe public summary. Make it warm,
+protective, technical, and calm. Include no sensitive data and no readable UI.
 
 Negative prompt / avoid: No private screenshots, no transcripts, no
 credentials, no realistic case files, no legal documents, no family images, no
 product availability claims.
 
-Alt text: Abstract social card showing a private listening worker with a
+Alt text: Carrot-guided social card showing a private listening worker with a
 protected review boundary.
 
 Privacy notes: Safe to generate after Faith approves the public name.
