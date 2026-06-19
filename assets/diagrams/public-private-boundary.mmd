@@ -1,0 +1,17 @@
+flowchart TB
+  subgraph Public["Public Surface"]
+    P1["Project story"]
+    P2["Abstract visuals"]
+    P3["Status and roadmap"]
+    P4["Inquiry path"]
+  end
+
+  subgraph Private["Private Engine"]
+    R1["Source code"]
+    R2["Raw transcripts and uploads"]
+    R3["Credentials and deployment"]
+    R4["Private workflows and receipts"]
+  end
+
+  Private --> G["Review gate"]
+  G --> Public

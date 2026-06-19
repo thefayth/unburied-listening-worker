@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Unburied Listening Worker repository banner</title>
+  <desc id="desc">A warm abstract banner for the Unburied Listening Worker public surface.</desc>
+  <rect width="1600" height="520" fill="#171411"/>
+  <circle cx="1320" cy="110" r="220" fill="#2b241f"/>
+  <circle cx="1480" cy="430" r="250" fill="#202825"/>
+  <path d="M100 360c230-170 430-170 660 0s430 170 660 0" fill="none" stroke="#e0b15a" stroke-width="16" stroke-linecap="round" opacity=".78"/>
+  <path d="M100 410c230-130 430-130 660 0s430 130 660 0" fill="none" stroke="#76b7a1" stroke-width="12" stroke-linecap="round" opacity=".7"/>
+  <rect x="95" y="92" width="680" height="230" rx="34" fill="#211c18" stroke="#d684b8" stroke-width="4"/>
+  <text x="140" y="170" fill="#f7efe3" font-family="Arial, sans-serif" font-size="54" font-weight="800">Unburied Listening Worker</text>
+  <text x="143" y="224" fill="#d9cab8" font-family="Arial, sans-serif" font-size="28">Protected listening infrastructure</text>
+  <text x="143" y="270" fill="#d9cab8" font-family="Arial, sans-serif" font-size="24">Public surface. Private engine. Receipts always.</text>
+</svg>

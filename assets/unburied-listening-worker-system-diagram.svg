@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Unburied Listening Worker abstract system diagram</title>
+  <desc id="desc">An abstract public-safe diagram showing private intake, protected review, and mirror-safe export.</desc>
+  <rect width="1200" height="630" fill="#171411"/>
+  <rect x="70" y="80" width="300" height="470" rx="28" fill="#2b241f" stroke="#e0b15a" stroke-width="4"/>
+  <rect x="450" y="80" width="300" height="470" rx="28" fill="#202825" stroke="#76b7a1" stroke-width="4"/>
+  <rect x="830" y="80" width="300" height="470" rx="28" fill="#252235" stroke="#d684b8" stroke-width="4"/>
+  <text x="220" y="150" text-anchor="middle" fill="#f7efe3" font-family="Arial, sans-serif" font-size="34" font-weight="700">Private Intake</text>
+  <text x="600" y="150" text-anchor="middle" fill="#f7efe3" font-family="Arial, sans-serif" font-size="34" font-weight="700">Protected Review</text>
+  <text x="980" y="150" text-anchor="middle" fill="#f7efe3" font-family="Arial, sans-serif" font-size="34" font-weight="700">Mirror-Safe Export</text>
+  <circle cx="220" cy="300" r="82" fill="#3a2d24" stroke="#e0b15a" stroke-width="3"/>
+  <path d="M178 300c22-48 62-48 84 0-22 48-62 48-84 0z" fill="none" stroke="#f7efe3" stroke-width="8"/>
+  <circle cx="220" cy="300" r="20" fill="#e0b15a"/>
+  <path d="M514 346c0-92 172-92 172 0" fill="none" stroke="#76b7a1" stroke-width="16" stroke-linecap="round"/>
+  <rect x="520" y="248" width="160" height="128" rx="18" fill="#2e3a35" stroke="#f7efe3" stroke-width="5"/>
+  <path d="M936 260h88v-42l92 97-92 97v-42h-88z" fill="#d684b8"/>
+  <path d="M377 315h62" stroke="#f7efe3" stroke-width="8" stroke-linecap="round"/>
+  <path d="M757 315h62" stroke="#f7efe3" stroke-width="8" stroke-linecap="round"/>
+  <text x="220" y="455" text-anchor="middle" fill="#d9cab8" font-family="Arial, sans-serif" font-size="24">Raw materials stay private</text>
+  <text x="600" y="455" text-anchor="middle" fill="#d9cab8" font-family="Arial, sans-serif" font-size="24">Rules, custody, redaction</text>
+  <text x="980" y="455" text-anchor="middle" fill="#d9cab8" font-family="Arial, sans-serif" font-size="24">Only approved metadata moves</text>
+</svg>

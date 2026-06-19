@@ -1,0 +1,24 @@
+# Keep this public surface docs-only.
+
+.env
+.env.*
+!.env.example
+
+src/
+scripts/
+storage/
+deploy/
+release/
+node_modules/
+.venv/
+local-full-app/
+
+*.log
+*.key
+*.pem
+*.p12
+*.pfx
+*token*
+*passcode*
+*password*
+*secret*
