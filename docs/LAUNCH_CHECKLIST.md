@@ -13,6 +13,17 @@
 - `wordpress/`
 - `RECEIPT.md`
 
+## Repository Choice
+
+Base project slug: `unburied-listening-worker`
+
+Chosen repo slug: `unburied-listening-worker`
+
+Version status: canonical first public surface.
+
+Reason: `thefayth/unburied-listening-worker` is the exact public surface for
+this workspace and Faith explicitly instructed updates under the revised brief.
+
 ## Workflow Visuals
 
 - `assets/diagrams/workflow-overview.mmd`
@@ -49,7 +60,8 @@ All rights reserved. No public license granted.
 
 ## Image Status
 
-Prompt briefs and one abstract placeholder SVG are ready for Faith review.
+Existing project visuals were audited in `docs/IMAGE_ASSET_AUDIT.md`.
+The GitHub repo uses only public-safe abstract SVG assets.
 
 ## WordPress Page Status
 

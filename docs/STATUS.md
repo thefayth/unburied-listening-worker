@@ -2,7 +2,17 @@
 
 ## Public Docs Status
 
-Prepared locally for Faith review.
+Published as the canonical first public surface:
+
+`https://github.com/thefayth/unburied-listening-worker`
+
+Base project slug: `unburied-listening-worker`
+
+Chosen repo slug: `unburied-listening-worker`
+
+Version status: canonical first public surface, updated in place because this
+workspace represents the same public surface and Faith instructed the updated
+brief to be applied.
 
 ## Private Build Status
 
@@ -22,16 +32,15 @@ screenshots or real records are used.
 
 ## GitHub / Repo Status
 
-No repo was created. Recommended visibility is a public docs-only repo only
-after Faith review, or no separate repo if this should remain a component of a
-larger Big Stick/Unburied public page.
+Public docs-only repo created under `thefayth/unburied-listening-worker`.
+The private project root was not pushed.
 
 ## Known Blockers
 
 - Project contains private storage and runtime artifacts that must not be
   published.
 - The worker is not meant to be a public app or public API.
-- Public name and page placement need Faith review.
+- WordPress page placement still needs Faith review.
 
 ## Not Safe To Publish Yet
 

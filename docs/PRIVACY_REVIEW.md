@@ -12,6 +12,8 @@ at `docs/PRIVACY_AND_SAFETY_REVIEW.md`.
 - `docs/AUTONOMOUS_BUILD_STATUS.md`
 - `docs/FULL_APP_FINISH_AUDIT_20260617.md`
 - Path-only sensitive-category scan.
+- Existing visual-asset locations from the updated brief, including copied
+  parent `public/brand` assets and brand receipt screenshot folders.
 
 ## Sensitive Categories Found
 
@@ -57,6 +59,8 @@ Safe: abstract diagrams and generated visuals with no private data.
 
 Not safe: private screenshots, transcripts, recordings, logs, storage records,
 case details, names, addresses, tokens, or dashboard captures.
+
+Image audit: `docs/IMAGE_ASSET_AUDIT.md`.
 
 ## Workflow Safety
 

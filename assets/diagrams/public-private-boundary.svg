@@ -8,10 +8,12 @@
   <text x="320" y="190" text-anchor="middle" fill="#f7efe3" font-family="Arial, sans-serif" font-size="34" font-weight="700">Public Surface</text>
   <text x="960" y="190" text-anchor="middle" fill="#f7efe3" font-family="Arial, sans-serif" font-size="34" font-weight="700">Private Engine</text>
   <g fill="#f7efe3" font-family="Arial, sans-serif" font-size="25">
-    <text x="145" y="265">• Project story</text>
-    <text x="145" y="320">• Abstract visuals</text>
-    <text x="145" y="375">• Status and roadmap</text>
-    <text x="145" y="430">• Inquiry path</text>
+    <text x="145" y="250">• Project story</text>
+    <text x="145" y="300">• Abstract visuals</text>
+    <text x="145" y="350">• Status and roadmap</text>
+    <text x="145" y="400">• Inquiry path</text>
+    <text x="145" y="450">• GitHub repository</text>
+    <text x="145" y="500">• FaithCheltenham.com draft</text>
     <text x="785" y="265">• Source code</text>
     <text x="785" y="320">• Raw transcripts and uploads</text>
     <text x="785" y="375">• Credentials and deployment</text>

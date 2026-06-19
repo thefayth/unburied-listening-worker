@@ -16,6 +16,8 @@ flowchart LR
   C --> D["Mirror-safe metadata"]
   D --> E["Private Big Stick / Unburied review"]
   E --> F["Approved public-safe context, if Faith chooses"]
+  F --> G["GitHub public surface"]
+  F --> H["FaithCheltenham.com project page draft"]
 ```
 
 ## Public / Private Boundary
@@ -31,6 +33,8 @@ flowchart TB
     P2["Abstract visuals"]
     P3["Status and roadmap"]
     P4["Inquiry path"]
+    P5["GitHub repository"]
+    P6["FaithCheltenham.com draft"]
   end
 
   subgraph Private["Private Engine"]

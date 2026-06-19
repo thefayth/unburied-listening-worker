@@ -8,6 +8,8 @@ project note or component of the larger Big Stick/Unburied system.
 
 Draft files:
 
+- `wordpress/page.md`
+- `wordpress/meta.md`
 - `wordpress/unburied-listening-worker-page.md`
 - `wordpress/unburied-listening-worker-page.wp-blocks.html`
 - `wordpress/unburied-listening-worker-meta.md`

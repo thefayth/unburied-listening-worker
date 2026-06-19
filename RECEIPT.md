@@ -22,6 +22,14 @@ Repository:
 
 `https://github.com/thefayth/unburied-listening-worker`
 
+Base project slug: `unburied-listening-worker`
+
+Chosen repo slug: `unburied-listening-worker`
+
+Version status: canonical first public surface, updated in place because the
+existing repository is the same public surface and Faith instructed the updated
+brief to be applied.
+
 ## What I Inspected
 
 - Current directory listing.
@@ -44,6 +52,7 @@ Created `_public_surface/unburied-listening-worker/` with:
 - Project brief, status, FAQ, roadmap, launch checklist, and safety review.
 - Workflow diagrams, image prompt pack, banner, social preview, and abstract
   placeholder SVG.
+- Image asset audit at `docs/IMAGE_ASSET_AUDIT.md`.
 - WordPress held-draft materials.
 - Local git repository with branch `main`.
 - Public GitHub repository `thefayth/unburied-listening-worker`.
@@ -81,8 +90,9 @@ Repository URL if created:
 
 ## WordPress Page Recommendation
 
-Draft only. Use as a protected project note or fold into a larger Big
-Stick/Unburied page. Do not present it as a public product or downloadable app.
+Draft only. Use as a protected project note at
+`/projects/unburied-listening-worker/` or fold into a larger Big Stick/Unburied
+page. Do not present it as a public product or downloadable app.
 
 ## Image Recommendation
 

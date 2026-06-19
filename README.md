@@ -69,6 +69,7 @@ by this project surface.
 - [Status](docs/STATUS.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Workflow Diagrams](docs/WORKFLOW_DIAGRAMS.md)
+- [Image Asset Audit](docs/IMAGE_ASSET_AUDIT.md)
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [Commercial Use Policy](docs/COMMERCIAL_USE_POLICY.md)
 - [Privacy Review](docs/PRIVACY_REVIEW.md)
