@@ -9,8 +9,10 @@ Unburied listening workflows. It helps intake controlled media, transcripts, and
 social review items, then returns mirror-safe review metadata to the private
 Big Stick/Unburied system.
 
-This public repository is a protected project surface. It is not the full
-source, private workflow, private data room, or operational system.
+This repository is a protected public project surface. It is not the full
+source code, operational system, private workflow, or data room.
+
+![Unburied Listening Worker social card](assets/social/social-card.png)
 
 ## Who It Is For
 
@@ -50,6 +52,18 @@ Fightback visual system.
 | Big Stick mark | Unburied mark | Fightback mark |
 | --- | --- | --- |
 | ![Big Stick logo mark](assets/gallery/bigstick-logo-mark.svg) | ![Unburied logo mark](assets/gallery/unburied-logo-mark.svg) | ![Fightback logo mark](assets/gallery/fightback-logo-mark.svg) |
+
+## Public Visual Package
+
+The public visual package is intentionally composed from approved existing
+Big Stick / Unburied / Fightback assets plus public-safe branded diagrams:
+
+- [Hero image](assets/hero/hero-image.png)
+- [GitHub banner](assets/banners/github-banner.png)
+- [Social card](assets/social/social-card.png)
+- [Project icon](assets/icons/project-icon.png)
+- [Workflow overview](assets/diagrams/workflow-overview.svg)
+- [Public/private boundary](assets/diagrams/public-private-boundary.svg)
 
 ## What Is Public Here
 
