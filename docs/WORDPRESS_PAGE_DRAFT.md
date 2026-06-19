@@ -15,3 +15,10 @@ Draft files:
 - `wordpress/unburied-listening-worker-meta.md`
 
 Do not publish without explicit approval.
+
+Recommended existing visuals:
+
+- `assets/brand/unburied/hero-panel.svg`
+- `assets/brand/bigstick/hero-panel.svg`
+- `assets/brand/fightback/hero-panel.svg`
+- `assets/brand/unburied/logo-mark.svg`

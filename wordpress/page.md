@@ -46,6 +46,10 @@ reviews and approves it.
 
 ## Visual Gallery
 
+- Unburied archive intelligence artwork: `assets/brand/unburied/hero-panel.svg`
+- Big Stick command board artwork: `assets/brand/bigstick/hero-panel.svg`
+- Fightback analog public record artwork:
+  `assets/brand/fightback/hero-panel.svg`
 - Repository banner: `assets/banners/repository-banner.svg`
 - Social preview: `assets/social/social-preview.svg`
 - Boundary diagram: `assets/diagrams/public-private-boundary.svg`

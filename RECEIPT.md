@@ -53,6 +53,8 @@ Created `_public_surface/unburied-listening-worker/` with:
 - Workflow diagrams, image prompt pack, banner, social preview, and abstract
   placeholder SVG.
 - Image asset audit at `docs/IMAGE_ASSET_AUDIT.md`.
+- Approved existing Big Stick, Unburied, and Fightback brand visuals under
+  `assets/brand/`.
 - WordPress held-draft materials.
 - Local git repository with branch `main`.
 - Public GitHub repository `thefayth/unburied-listening-worker`.
@@ -96,7 +98,8 @@ page. Do not present it as a public product or downloadable app.
 
 ## Image Recommendation
 
-Use original abstract visuals only. Do not use screenshots or private records.
+Use the approved existing Big Stick, Unburied, and Fightback brand visuals plus
+the abstract workflow diagrams. Do not use screenshots or private records.
 
 ## Risk Notes
 

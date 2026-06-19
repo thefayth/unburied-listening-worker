@@ -9,5 +9,6 @@ Current asset:
 
 - `unburied-listening-worker-system-diagram.svg`: abstract placeholder diagram
   with no private data.
+- `brand/`: approved existing Big Stick, Unburied, and Fightback brand visuals.
 
 Prompt briefs live in `assets/image-prompts/`.

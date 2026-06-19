@@ -36,6 +36,19 @@ The public story is simple:
 
 ![Public/private boundary](assets/diagrams/public-private-boundary.svg)
 
+## Existing Ecosystem Visuals
+
+These public-safe brand visuals come from the existing Big Stick / Unburied /
+Fightback visual system.
+
+| Big Stick | Unburied | Fightback |
+| --- | --- | --- |
+| ![Big Stick command board artwork](assets/brand/bigstick/hero-panel.svg) | ![Unburied archive intelligence artwork](assets/brand/unburied/hero-panel.svg) | ![Fightback analog public record artwork](assets/brand/fightback/hero-panel.svg) |
+
+| Big Stick mark | Unburied mark | Fightback mark |
+| --- | --- | --- |
+| ![Big Stick logo mark](assets/brand/bigstick/logo-mark.svg) | ![Unburied logo mark](assets/brand/unburied/logo-mark.svg) | ![Fightback logo mark](assets/brand/fightback/logo-mark.svg) |
+
 ## What Is Public Here
 
 - A high-level project story.
@@ -70,6 +83,7 @@ by this project surface.
 - [Roadmap](docs/ROADMAP.md)
 - [Workflow Diagrams](docs/WORKFLOW_DIAGRAMS.md)
 - [Image Asset Audit](docs/IMAGE_ASSET_AUDIT.md)
+- [Brand Style Notes](docs/BRAND_STYLE_NOTES.md)
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [Commercial Use Policy](docs/COMMERCIAL_USE_POLICY.md)
 - [Privacy Review](docs/PRIVACY_REVIEW.md)

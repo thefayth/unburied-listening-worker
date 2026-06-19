@@ -7,6 +7,15 @@ Project name: Unburied Listening Worker
 Public role: protected listening infrastructure for the Big Stick / Unburied /
 Fightback ecosystem.
 
+## Approved Existing Visuals
+
+Faith approved using the existing Big Stick, Unburied, and Fightback visuals.
+They are included under `assets/brand/`.
+
+- Big Stick: command-board artwork, logo mark, desktop/icon assets.
+- Unburied: protected archive artwork and logo mark.
+- Fightback: analog public-record artwork and logo mark.
+
 ## Personality
 
 - Protective
@@ -32,6 +41,8 @@ Fightback ecosystem.
 - A boundary line between raw intake and public-safe context.
 - Mirror-safe export as a small approved summary, not a data spill.
 - Warm control-room mood rather than generic SaaS.
+- Existing command-board, archive, and public-record visuals from the Big Stick
+  ecosystem.
 
 ## Avoid
 

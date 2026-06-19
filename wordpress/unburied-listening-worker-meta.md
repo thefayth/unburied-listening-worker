@@ -18,9 +18,8 @@ Social description: A protected public project note for private listening
 infrastructure inside Big Stick and Unburied.
 
 Suggested featured image:
-`assets/social/social-preview.svg`
+`assets/brand/unburied/hero-panel.svg`
 
-Image alt text: Abstract public-safe diagram showing private intake, protected
-review, and mirror-safe export.
+Image alt text: Unburied archive intelligence artwork.
 
 Publish recommendation: draft only until Faith review.

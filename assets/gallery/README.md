@@ -8,6 +8,12 @@ details should be placed here.
 
 Current public-safe visuals live in:
 
+- `../brand/bigstick/hero-panel.svg`
+- `../brand/unburied/hero-panel.svg`
+- `../brand/fightback/hero-panel.svg`
+- `../brand/bigstick/logo-mark.svg`
+- `../brand/unburied/logo-mark.svg`
+- `../brand/fightback/logo-mark.svg`
 - `../banners/repository-banner.svg`
 - `../social/social-preview.svg`
 - `../diagrams/workflow-overview.svg`

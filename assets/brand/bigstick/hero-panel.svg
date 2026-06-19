@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">BigStick command board artwork</title>
+  <desc id="desc">A dense private command board with legal lanes, priority rails, and receipt cards.</desc>
+  <rect width="1200" height="720" fill="#ece8dc"/>
+  <path d="M0 0h1200v720H0z" fill="#171513" opacity=".06"/>
+  <g stroke="#171513" stroke-opacity=".12">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M0 600h1200"/>
+    <path d="M160 0v720M320 0v720M480 0v720M640 0v720M800 0v720M960 0v720"/>
+  </g>
+  <rect x="72" y="72" width="312" height="576" rx="10" fill="#171513"/>
+  <rect x="112" y="124" width="232" height="26" rx="6" fill="#b3262e"/>
+  <rect x="112" y="184" width="176" height="18" rx="6" fill="#f2eee1" opacity=".82"/>
+  <rect x="112" y="228" width="216" height="18" rx="6" fill="#f2eee1" opacity=".62"/>
+  <rect x="112" y="316" width="232" height="108" rx="8" fill="#f2eee1" opacity=".12"/>
+  <rect x="444" y="72" width="684" height="148" rx="10" fill="#fbf7ed" stroke="#171513" stroke-opacity=".22"/>
+  <rect x="484" y="118" width="164" height="22" rx="6" fill="#b3262e"/>
+  <rect x="484" y="164" width="520" height="14" rx="6" fill="#171513" opacity=".42"/>
+  <g fill="#fbf7ed" stroke="#171513" stroke-opacity=".22">
+    <rect x="444" y="268" width="196" height="180" rx="10"/>
+    <rect x="688" y="268" width="196" height="180" rx="10"/>
+    <rect x="932" y="268" width="196" height="180" rx="10"/>
+    <rect x="444" y="500" width="684" height="148" rx="10"/>
+  </g>
+  <g fill="#b48b45">
+    <circle cx="516" cy="342" r="20"/>
+    <circle cx="760" cy="342" r="20"/>
+    <circle cx="1004" cy="342" r="20"/>
+  </g>
+  <path d="M500 570h520" stroke="#b3262e" stroke-width="16" stroke-linecap="round"/>
+</svg>

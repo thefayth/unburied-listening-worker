@@ -36,10 +36,14 @@ public app, product download, or open-source release.
 
 Suggested image:
 
-`unburied-listening-worker-system-diagram.svg`
+`assets/brand/unburied/hero-panel.svg`
 
-Alt text: Abstract public-safe diagram showing private intake, protected review,
-and mirror-safe export.
+Alt text: Unburied archive intelligence artwork.
+
+Additional existing visuals:
+
+- `assets/brand/bigstick/hero-panel.svg`
+- `assets/brand/fightback/hero-panel.svg`
 
 ## How To Engage
 

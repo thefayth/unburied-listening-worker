@@ -36,6 +36,13 @@ this workspace and Faith explicitly instructed updates under the revised brief.
 - `assets/banners/repository-banner.svg`
 - `assets/social/social-preview.svg`
 - `assets/unburied-listening-worker-system-diagram.svg`
+- `assets/brand/bigstick/hero-panel.svg`
+- `assets/brand/bigstick/logo-mark.svg`
+- `assets/brand/bigstick/desktop-icon.png`
+- `assets/brand/unburied/hero-panel.svg`
+- `assets/brand/unburied/logo-mark.svg`
+- `assets/brand/fightback/hero-panel.svg`
+- `assets/brand/fightback/logo-mark.svg`
 
 ## Files Excluded
 
@@ -61,7 +68,8 @@ All rights reserved. No public license granted.
 ## Image Status
 
 Existing project visuals were audited in `docs/IMAGE_ASSET_AUDIT.md`.
-The GitHub repo uses only public-safe abstract SVG assets.
+The GitHub repo now uses approved existing Big Stick, Unburied, and Fightback
+brand visuals plus public-safe abstract diagrams.
 
 ## WordPress Page Status
 

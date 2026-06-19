@@ -18,8 +18,8 @@ Social description: Public surface, private engine, and mirror-safe listening
 review boundaries inside Faith Cheltenham's Big Stick / Unburied ecosystem.
 
 Featured image recommendation:
-`assets/social/social-preview.svg`
+`assets/brand/unburied/hero-panel.svg`
 
-Alt text: Social preview for protected listening infrastructure.
+Alt text: Unburied archive intelligence artwork.
 
 Publish status: draft only until Faith review.

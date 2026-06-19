@@ -55,7 +55,8 @@ No secret values are displayed here.
 
 ## Image Safety
 
-Safe: abstract diagrams and generated visuals with no private data.
+Safe: abstract diagrams, generated visuals with no private data, and existing
+Big Stick / Unburied / Fightback public brand panels/marks approved by Faith.
 
 Not safe: private screenshots, transcripts, recordings, logs, storage records,
 case details, names, addresses, tokens, or dashboard captures.

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">BigStick logo mark</title>
+  <desc id="desc">A tactical legal command-board mark with a baton-like vertical rule, status rails, and a stamped BS monogram.</desc>
+  <rect width="256" height="256" rx="24" fill="#171513"/>
+  <path d="M42 42h172v172H42z" fill="#f5efe3" opacity=".08"/>
+  <path d="M82 44h28v168H82z" fill="#b3262e"/>
+  <path d="M128 70h70v18h-70zM128 118h70v18h-70zM128 166h70v18h-70z" fill="#f2eee1"/>
+  <path d="M58 70h42v18H58zM58 118h42v18H58zM58 166h42v18H58z" fill="#b48b45"/>
+  <text x="128" y="226" text-anchor="middle" fill="#f2eee1" font-family="Arial, sans-serif" font-size="28" font-weight="900" letter-spacing="8">BS</text>
+</svg>
