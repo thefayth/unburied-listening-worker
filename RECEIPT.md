@@ -14,9 +14,13 @@ PREPARE_ONLY
 
 ## Summary
 
-Created a docs-only protected public surface for the current project. No source,
-storage, runtime secrets, private records, deployment files, WordPress writes,
-GitHub pushes, or production changes were performed.
+Created and published a docs-only protected public surface for the current
+project. No source, storage, runtime secrets, private records, deployment files,
+WordPress writes, or production changes were performed.
+
+Repository:
+
+`https://github.com/thefayth/unburied-listening-worker`
 
 ## What I Inspected
 
@@ -41,6 +45,11 @@ Created `_public_surface/unburied-listening-worker/` with:
 - Workflow diagrams, image prompt pack, banner, social preview, and abstract
   placeholder SVG.
 - WordPress held-draft materials.
+- Local git repository with branch `main`.
+- Public GitHub repository `thefayth/unburied-listening-worker`.
+- Repository topics:
+  `public-surface`, `protected-systems`, `listening-workflows`,
+  `privacy-boundary`, `unburied`, `big-stick`.
 
 ## What I Intentionally Did Not Touch
 
@@ -62,10 +71,9 @@ uploads, analysis records, runtime credentials, local passcodes/tokens,
 deployment details, server paths, private receipts, legal/admin/family/evidence
 materials, and operational IP.
 
-## Public Repo Recommendation
+## Public Repo Status
 
-Optional docs-only public repo after Faith review. Recommended name:
-`unburied-listening-worker`. Do not push the project root.
+Created as a public docs-only repository. The project root was not pushed.
 
 Repository URL if created:
 
@@ -86,6 +94,8 @@ The source project contains sensitive runtime, storage, deployment, and
 evidence-adjacent materials. Public surface readiness is therefore:
 
 READY AFTER FAITH REVIEW
+
+GitHub status: PUBLISHED AS DOCS-ONLY PUBLIC SURFACE
 
 ## Open Questions For Faith
 
