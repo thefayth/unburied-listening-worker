@@ -18,6 +18,7 @@ Do not publish without explicit approval.
 
 Recommended existing visuals:
 
+- `assets/hero/hero-image.png`
 - `assets/brand/unburied/hero-panel.svg`
 - `assets/brand/bigstick/hero-panel.svg`
 - `assets/brand/fightback/hero-panel.svg`

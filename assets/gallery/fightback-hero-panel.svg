@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Fightback analog public record artwork</title>
+  <desc id="desc">A hand-inked public evidence board with broadcast title cards, redacted records, and timeline panels.</desc>
+  <defs>
+    <pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="3" r="1" fill="#17110f" opacity=".12"/>
+      <circle cx="11" cy="8" r=".8" fill="#17110f" opacity=".08"/>
+      <circle cx="15" cy="15" r=".7" fill="#b82732" opacity=".12"/>
+    </pattern>
+    <pattern id="scan" width="1" height="8" patternUnits="userSpaceOnUse">
+      <rect width="1" height="2" fill="#17110f" opacity=".08"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="66" y="54" width="1068" height="612" rx="18"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="720" fill="#f2ead8"/>
+  <rect width="1200" height="720" fill="url(#grain)" opacity=".8"/>
+  <g clip-path="url(#frame)">
+    <rect x="66" y="54" width="1068" height="612" fill="#fff6e4"/>
+    <path d="M72 618L516 96L616 96L172 618Z" fill="#d9b95f" opacity=".18"/>
+    <path d="M626 54L1114 54L760 666H510Z" fill="#244563" opacity=".16"/>
+    <path d="M100 138L486 138" stroke="#17110f" stroke-width="28" stroke-linecap="square"/>
+    <path d="M100 198L366 198" stroke="#b82732" stroke-width="18" stroke-linecap="square"/>
+    <path d="M100 246L462 246M100 292L414 292" stroke="#17110f" stroke-width="12" stroke-linecap="square" opacity=".62"/>
+    <rect x="92" y="374" width="420" height="184" rx="4" fill="#181412"/>
+    <rect x="122" y="410" width="148" height="22" rx="2" fill="#fff6e4"/>
+    <rect x="122" y="468" width="314" height="14" rx="2" fill="#b82732"/>
+    <rect x="122" y="506" width="246" height="14" rx="2" fill="#fff6e4" opacity=".78"/>
+    <path d="M590 112H1068V238H590Z" fill="#17110f"/>
+    <path d="M628 154H912" stroke="#fff6e4" stroke-width="18"/>
+    <path d="M628 196H1020" stroke="#b82732" stroke-width="10"/>
+    <g fill="#fff8e8" stroke="#17110f" stroke-width="5">
+      <path d="M590 300H1068V376H590Z"/>
+      <path d="M590 424H1068V500H590Z"/>
+      <path d="M590 548H1068V624H590Z"/>
+    </g>
+    <path d="M626 340H1002M626 464H1018M626 588H968" stroke="#b82732" stroke-width="13" stroke-linecap="square"/>
+    <path d="M1068 54L590 666M994 54L516 666M920 54L442 666" stroke="#17110f" stroke-width="3" opacity=".14"/>
+    <rect x="66" y="54" width="1068" height="612" fill="url(#scan)" opacity=".7"/>
+  </g>
+  <rect x="66" y="54" width="1068" height="612" rx="18" fill="none" stroke="#17110f" stroke-width="10"/>
+  <rect x="84" y="72" width="1032" height="576" rx="8" fill="none" stroke="#b82732" stroke-width="3" opacity=".9"/>
+  <path d="M64 70L150 70M1050 650H1134M64 650H188M1024 70H1134" stroke="#17110f" stroke-width="10"/>
+</svg>

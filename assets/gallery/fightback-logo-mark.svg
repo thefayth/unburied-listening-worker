@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Fightback logo mark</title>
+  <desc id="desc">A redacted public record mark with a civic red stripe and FB monogram.</desc>
+  <rect width="256" height="256" rx="24" fill="#fffaf1"/>
+  <path d="M48 42h160v172H48z" fill="#161412" opacity=".08"/>
+  <path d="M70 72h116v16H70zM70 112h88v16H70zM70 152h116v16H70z" fill="#161412"/>
+  <path d="M70 96h64v12H70zM154 96h32v12h-32zM70 136h34v12H70zM126 136h60v12h-60z" fill="#c82432"/>
+  <path d="M48 196h160v18H48z" fill="#26374a"/>
+  <text x="128" y="235" text-anchor="middle" fill="#8e101a" font-family="Arial, sans-serif" font-size="26" font-weight="900" letter-spacing="8">FB</text>
+</svg>

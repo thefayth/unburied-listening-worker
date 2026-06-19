@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Unburied archive intelligence artwork</title>
+  <desc id="desc">A dark protected archive desk with amber index cards, retrieval rails, and vault panels.</desc>
+  <rect width="1200" height="720" fill="#101419"/>
+  <g stroke="#f5efe3" stroke-opacity=".08">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M0 600h1200"/>
+    <path d="M200 0v720M400 0v720M600 0v720M800 0v720M1000 0v720"/>
+  </g>
+  <rect x="76" y="76" width="310" height="568" rx="10" fill="#171d22" stroke="#f5efe3" stroke-opacity=".14"/>
+  <rect x="118" y="132" width="214" height="20" rx="6" fill="#d09a3a"/>
+  <rect x="118" y="190" width="184" height="16" rx="6" fill="#f5efe3" opacity=".68"/>
+  <rect x="118" y="232" width="226" height="16" rx="6" fill="#f5efe3" opacity=".42"/>
+  <rect x="454" y="76" width="670" height="176" rx="10" fill="#171d22" stroke="#f5efe3" stroke-opacity=".14"/>
+  <rect x="504" y="132" width="142" height="24" rx="6" fill="#8fc9a4"/>
+  <path d="M504 194h510" stroke="#d09a3a" stroke-width="14" stroke-linecap="round"/>
+  <g fill="#171d22" stroke="#f5efe3" stroke-opacity=".14">
+    <rect x="454" y="314" width="194" height="142" rx="10"/>
+    <rect x="692" y="314" width="194" height="142" rx="10"/>
+    <rect x="930" y="314" width="194" height="142" rx="10"/>
+    <rect x="454" y="516" width="670" height="128" rx="10"/>
+  </g>
+  <path d="M512 582h498" stroke="#8fc9a4" stroke-width="12" stroke-linecap="round" opacity=".72"/>
+</svg>

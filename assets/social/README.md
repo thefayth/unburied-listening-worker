@@ -3,3 +3,4 @@
 Public-safe social preview assets.
 
 - `social-preview.svg`
+- `social-card.png`

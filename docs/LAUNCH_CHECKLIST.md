@@ -33,9 +33,17 @@ this workspace and Faith explicitly instructed updates under the revised brief.
 
 ## Branding Assets
 
+- `assets/hero/hero-image.png`
+- `assets/hero/hero-image.svg`
+- `assets/banners/github-banner.png`
 - `assets/banners/repository-banner.svg`
+- `assets/social/social-card.png`
 - `assets/social/social-preview.svg`
+- `assets/icons/project-icon.png`
 - `assets/unburied-listening-worker-system-diagram.svg`
+- `assets/gallery/bigstick-hero-panel.svg`
+- `assets/gallery/unburied-hero-panel.svg`
+- `assets/gallery/fightback-hero-panel.svg`
 - `assets/brand/bigstick/hero-panel.svg`
 - `assets/brand/bigstick/logo-mark.svg`
 - `assets/brand/bigstick/desktop-icon.png`
@@ -69,7 +77,11 @@ All rights reserved. No public license granted.
 
 Existing project visuals were audited in `docs/IMAGE_ASSET_AUDIT.md`.
 The GitHub repo now uses approved existing Big Stick, Unburied, and Fightback
-brand visuals plus public-safe abstract diagrams.
+brand visuals plus public-safe abstract diagrams and PNG visual-package assets.
+
+## Canva Asset Plan
+
+`docs/CANVA_ASSET_PLAN.md` is ready for future Canva polish/resizing.
 
 ## WordPress Page Status
 

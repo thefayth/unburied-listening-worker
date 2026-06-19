@@ -1,6 +1,8 @@
 # Unburied Listening Worker
 
-![Unburied Listening Worker banner](assets/banners/repository-banner.svg)
+![Unburied Listening Worker hero image](assets/hero/hero-image.png)
+
+![Unburied Listening Worker GitHub banner](assets/banners/github-banner.png)
 
 Unburied Listening Worker is a protected companion service for Big Stick and
 Unburied listening workflows. It helps intake controlled media, transcripts, and
@@ -43,11 +45,11 @@ Fightback visual system.
 
 | Big Stick | Unburied | Fightback |
 | --- | --- | --- |
-| ![Big Stick command board artwork](assets/brand/bigstick/hero-panel.svg) | ![Unburied archive intelligence artwork](assets/brand/unburied/hero-panel.svg) | ![Fightback analog public record artwork](assets/brand/fightback/hero-panel.svg) |
+| ![Big Stick command board artwork](assets/gallery/bigstick-hero-panel.svg) | ![Unburied archive intelligence artwork](assets/gallery/unburied-hero-panel.svg) | ![Fightback analog public record artwork](assets/gallery/fightback-hero-panel.svg) |
 
 | Big Stick mark | Unburied mark | Fightback mark |
 | --- | --- | --- |
-| ![Big Stick logo mark](assets/brand/bigstick/logo-mark.svg) | ![Unburied logo mark](assets/brand/unburied/logo-mark.svg) | ![Fightback logo mark](assets/brand/fightback/logo-mark.svg) |
+| ![Big Stick logo mark](assets/gallery/bigstick-logo-mark.svg) | ![Unburied logo mark](assets/gallery/unburied-logo-mark.svg) | ![Fightback logo mark](assets/gallery/fightback-logo-mark.svg) |
 
 ## What Is Public Here
 
@@ -83,6 +85,7 @@ by this project surface.
 - [Roadmap](docs/ROADMAP.md)
 - [Workflow Diagrams](docs/WORKFLOW_DIAGRAMS.md)
 - [Image Asset Audit](docs/IMAGE_ASSET_AUDIT.md)
+- [Canva Asset Plan](docs/CANVA_ASSET_PLAN.md)
 - [Brand Style Notes](docs/BRAND_STYLE_NOTES.md)
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 - [Commercial Use Policy](docs/COMMERCIAL_USE_POLICY.md)

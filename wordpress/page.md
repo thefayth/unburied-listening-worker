@@ -9,6 +9,8 @@ Unburied Listening Worker is a protected project surface for private listening
 infrastructure inside Faith Cheltenham's Big Stick / Unburied / Fightback
 ecosystem.
 
+Recommended hero image: `assets/hero/hero-image.png`
+
 ## What This Project Is
 
 It is a private companion worker for controlled media, transcript, and social
@@ -46,6 +48,9 @@ reviews and approves it.
 
 ## Visual Gallery
 
+- Hero image: `assets/hero/hero-image.png`
+- GitHub banner: `assets/banners/github-banner.png`
+- Social card: `assets/social/social-card.png`
 - Unburied archive intelligence artwork: `assets/brand/unburied/hero-panel.svg`
 - Big Stick command board artwork: `assets/brand/bigstick/hero-panel.svg`
 - Fightback analog public record artwork:

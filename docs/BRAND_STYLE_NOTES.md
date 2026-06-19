@@ -16,6 +16,14 @@ They are included under `assets/brand/`.
 - Unburied: protected archive artwork and logo mark.
 - Fightback: analog public-record artwork and logo mark.
 
+Selected public-surface placements:
+
+- Hero: `assets/hero/hero-image.png` and `assets/hero/hero-image.svg`.
+- Banner: `assets/banners/github-banner.png`.
+- Social: `assets/social/social-card.png`.
+- Icon: `assets/icons/project-icon.png`.
+- Gallery: `assets/gallery/`.
+
 ## Personality
 
 - Protective

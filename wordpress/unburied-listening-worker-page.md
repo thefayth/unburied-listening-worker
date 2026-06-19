@@ -36,9 +36,10 @@ public app, product download, or open-source release.
 
 Suggested image:
 
-`assets/brand/unburied/hero-panel.svg`
+`assets/hero/hero-image.png`
 
-Alt text: Unburied archive intelligence artwork.
+Alt text: Public-safe hero for Unburied Listening Worker showing private intake,
+protected review, and mirror-safe context.
 
 Additional existing visuals:
 

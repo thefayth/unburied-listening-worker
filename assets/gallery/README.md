@@ -8,6 +8,10 @@ details should be placed here.
 
 Current public-safe visuals live in:
 
+- `../hero/hero-image.png`
+- `../banners/github-banner.png`
+- `../social/social-card.png`
+- `../icons/project-icon.png`
 - `../brand/bigstick/hero-panel.svg`
 - `../brand/unburied/hero-panel.svg`
 - `../brand/fightback/hero-panel.svg`
