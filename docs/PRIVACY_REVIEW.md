@@ -57,6 +57,8 @@ No secret values are displayed here.
 
 Safe: abstract diagrams, generated visuals with no private data, and existing
 Big Stick / Unburied / Fightback public brand panels/marks approved by Faith.
+The current PNG pack under `assets/hero/`, `assets/banners/`, `assets/social/`,
+and `assets/icons/` was inspected as public-safe branded material.
 
 Not safe: private screenshots, transcripts, recordings, logs, storage records,
 case details, names, addresses, tokens, or dashboard captures.

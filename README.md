@@ -84,6 +84,16 @@ Big Stick / Unburied / Fightback assets plus public-safe branded diagrams:
   operations.
 - Agent instructions, prompts, workflows, and operational IP.
 
+## Current Status
+
+This repository is the canonical first public surface for Unburied Listening
+Worker. It is published as a docs-only, all-rights-reserved project surface
+under `thefayth/unburied-listening-worker`.
+
+The private engine, runtime files, WordPress publishing, and production systems
+remain withheld unless Faith separately approves a controlled release or
+publication step.
+
 ## Respectful Inquiry
 
 For private discussion, partnership review, press/background context, or future

@@ -44,7 +44,8 @@ brief to be applied.
 
 ## What I Created Or Changed
 
-Created `_public_surface/unburied-listening-worker/` with:
+Created and maintained `_github_public_export/` as the only pushable public
+surface, with:
 
 - Protected README and ownership files.
 - Public/private boundary docs.
@@ -64,6 +65,10 @@ Created `_public_surface/unburied-listening-worker/` with:
 - Repository topics:
   `public-surface`, `protected-systems`, `listening-workflows`,
   `privacy-boundary`, `unburied`, `big-stick`.
+- README updated with the required protected-public-surface statement, hero
+  image, banner, social card, workflow diagrams, and gallery visuals.
+- Status, image, Canva, WordPress, and launch-checklist docs updated to reflect
+  the published docs-only public surface and current visual package.
 
 ## What I Intentionally Did Not Touch
 
@@ -74,7 +79,6 @@ Created `_public_surface/unburied-listening-worker/` with:
 - No local passcode/token files.
 - No deploy scripts or server config.
 - No release packets.
-- No GitHub repo.
 - No WordPress site.
 - No DNS, hosting, database, payment, email, webhook, or production settings.
 
@@ -105,6 +109,16 @@ Use the approved existing Big Stick, Unburied, and Fightback brand visuals plus
 the abstract workflow diagrams and PNG public-surface visual package. Do not
 use screenshots or private records.
 
+Selected visuals:
+
+- `assets/hero/hero-image.png`
+- `assets/banners/github-banner.png`
+- `assets/social/social-card.png`
+- `assets/icons/project-icon.png`
+- `assets/gallery/bigstick-hero-panel.svg`
+- `assets/gallery/unburied-hero-panel.svg`
+- `assets/gallery/fightback-hero-panel.svg`
+
 ## Risk Notes
 
 The source project contains sensitive runtime, storage, deployment, and
@@ -114,6 +128,13 @@ READY AFTER FAITH REVIEW
 
 GitHub status: PUBLISHED AS DOCS-ONLY PUBLIC SURFACE
 
+Latest public-export sensitive-pattern scan: no hits in README, ownership
+files, docs, assets, or WordPress draft files.
+
+Local `gh` CLI note: the keyring token may need re-authentication for future
+repo metadata operations. Public git operations must continue to run only from
+`_github_public_export/`.
+
 ## Open Questions For Faith
 
 - Should the public name be Unburied Listening Worker, Listen Up Worker, or Big
@@ -122,17 +143,13 @@ GitHub status: PUBLISHED AS DOCS-ONLY PUBLIC SURFACE
   Stick/Unburied page?
 - Which official contact path should be used for inquiries?
 
-## Next Exact Commands, If Faith Chooses To Proceed
-
-Review the staged files:
+## Next Exact Commands
 
 ```powershell
-cd C:\Users\faith\Documents\_X\_D\bigstick-social-service
-Get-ChildItem -Recurse _public_surface\unburied-listening-worker
+cd C:\Users\faith\Documents\_X\_D\bigstick-social-service\_github_public_export
+git status --short --branch
 ```
 
-Run a public-surface sensitive-term scan before any repo action. Keep the scan
-path limited to `_public_surface\unburied-listening-worker` and review any hits
-without printing secret values.
-
-No publish or push command is recommended until Faith reviews the surface.
+Run a public-surface sensitive-term scan before any future push. Keep the scan
+path limited to `_github_public_export/` and review categories without printing
+secret values.

@@ -27,8 +27,18 @@ review because this worker is private infrastructure.
 
 ## Visual Asset Status
 
-Image prompt briefs and one abstract placeholder SVG are included. No private
-screenshots or real records are used.
+The repository includes a complete public-safe visual package:
+
+- `assets/hero/hero-image.png`
+- `assets/banners/github-banner.png`
+- `assets/social/social-card.png`
+- `assets/icons/project-icon.png`
+- `assets/diagrams/workflow-overview.svg`
+- `assets/diagrams/public-private-boundary.svg`
+- `assets/gallery/` selected Big Stick / Unburied / Fightback visuals
+
+No private screenshots, transcripts, dashboards, credentials, or real records
+are used.
 
 ## GitHub / Repo Status
 

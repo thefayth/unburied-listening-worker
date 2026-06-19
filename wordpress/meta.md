@@ -20,6 +20,9 @@ review boundaries inside Faith Cheltenham's Big Stick / Unburied ecosystem.
 Featured image recommendation:
 `assets/hero/hero-image.png`
 
+Open Graph image recommendation:
+`assets/social/social-card.png`
+
 Alt text: Public-safe hero for Unburied Listening Worker showing private intake,
 protected review, and mirror-safe context.
 

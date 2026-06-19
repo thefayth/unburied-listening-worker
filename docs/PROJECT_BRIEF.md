@@ -36,8 +36,13 @@ be reviewed without casually exposing private records.
 
 ## Current Public Status
 
-Public-safe documentation is staged locally for Faith review. No public repo was
-created and no WordPress page was published.
+Public-safe documentation has been published as the canonical first docs-only
+public surface:
+
+`https://github.com/thefayth/unburied-listening-worker`
+
+No private source code, storage data, runtime credentials, private workflows, or
+production system details are included. No WordPress page has been published.
 
 ## Private Work That Remains Protected
 
@@ -47,8 +52,9 @@ app internals remain private.
 
 ## Near-Term Next Steps
 
-- Faith reviews this public surface.
-- Keep this as a docs-only project surface unless Faith approves a public repo.
+- Faith reviews the published docs-only public surface.
+- Keep this as a docs-only project surface unless Faith approves a broader
+  controlled release.
 - If a public page is desired, publish only the WordPress draft after review.
 - Do not expose the worker or private source.
 

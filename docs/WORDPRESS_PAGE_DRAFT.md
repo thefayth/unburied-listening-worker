@@ -19,7 +19,13 @@ Do not publish without explicit approval.
 Recommended existing visuals:
 
 - `assets/hero/hero-image.png`
+- `assets/social/social-card.png`
+- `assets/banners/github-banner.png`
 - `assets/brand/unburied/hero-panel.svg`
 - `assets/brand/bigstick/hero-panel.svg`
 - `assets/brand/fightback/hero-panel.svg`
 - `assets/brand/unburied/logo-mark.svg`
+
+Recommended path:
+
+`/projects/unburied-listening-worker/`

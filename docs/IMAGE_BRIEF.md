@@ -1,8 +1,9 @@
 # Image Brief
 
-## Image Pack Recommendation
+## Image Pack Status
 
-Image pack needed: yes, for a public-safe project page or repo preview.
+Image pack status: complete for the current public GitHub surface and held
+WordPress draft.
 
 Use original abstract visuals only. Do not use screenshots of the app, storage,
 logs, transcripts, private records, or dashboard states unless Faith separately
@@ -16,18 +17,24 @@ approves a redacted screenshot set.
 - Dignified representation if people are included; avoid stereotypes,
   surveillance aesthetics, police-state imagery, or panic framing.
 
-## Needed Assets
+## Selected Assets
 
-- Hero image.
-- Social preview card.
-- System diagram.
-- WordPress section art.
+- Hero image: `assets/hero/hero-image.png`
+- GitHub banner: `assets/banners/github-banner.png`
+- Social preview card: `assets/social/social-card.png`
+- Project icon: `assets/icons/project-icon.png`
+- Workflow overview: `assets/diagrams/workflow-overview.svg`
+- Public/private boundary: `assets/diagrams/public-private-boundary.svg`
+- Ecosystem gallery: `assets/gallery/`
 
-## Placeholder
+## Future Canva Polish
 
-An abstract placeholder SVG is included at:
+The current image pack is public-safe and usable now. Future Canva work should
+polish or resize the existing direction rather than replacing it with generic
+SaaS imagery. The detailed prompt and resize plan is recorded at
+`docs/CANVA_ASSET_PLAN.md`.
 
-`assets/unburied-listening-worker-system-diagram.svg`
+## Fallback
 
-It contains no private information and can be replaced later with a generated
-or designed visual after Faith review.
+The abstract system diagram at `assets/unburied-listening-worker-system-diagram.svg`
+remains available as a public-safe fallback.

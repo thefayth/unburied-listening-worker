@@ -43,8 +43,8 @@ Alt text: Public-safe workflow overview for protected listening review.
 
 ## Current Status
 
-Public GitHub surface is prepared. WordPress page remains draft-only until Faith
-reviews and approves it.
+Public GitHub surface is published as a docs-only repository. WordPress page
+remains draft-only until Faith reviews and approves it.
 
 ## Visual Gallery
 

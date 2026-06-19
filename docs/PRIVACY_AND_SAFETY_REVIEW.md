@@ -13,9 +13,9 @@
 
 ## Files Created
 
-Public-safe staging files under:
+Public-safe export files under:
 
-`_public_surface/unburied-listening-worker/`
+`_github_public_export/`
 
 ## Sensitive Categories Found
 
@@ -52,11 +52,11 @@ not displayed.
 Potential secret found in `.env`, category environment value. Value not
 displayed.
 
-Potential secret found in `local-full-app/runtime/local-admin-passcode.txt`,
-category passcode. Value not displayed.
+Potential secret found in a private local runtime passcode file. Value not
+displayed.
 
-Potential secret found in `local-full-app/runtime/local-worker-token.txt`,
-category token. Value not displayed.
+Potential secret found in a private local runtime worker-token file. Value not
+displayed.
 
 ## Public-Safe Claims Used
 
@@ -69,13 +69,15 @@ category token. Value not displayed.
 ## Claims Avoided
 
 - No claim that the service is publicly available.
-- No claim that a WordPress page or GitHub repo has been published.
+- No claim that a WordPress page has been published.
+- GitHub is represented only as a docs-only public project surface.
 - No claim about customers, cases, legal outcomes, or production state.
 - No claim that source code is open.
 
 ## Images Safe / Not Safe
 
-Safe: abstract diagrams, generated visuals, prompt-pack concepts.
+Safe: abstract diagrams, generated visuals, prompt-pack concepts, and the
+selected public-safe Big Stick / Unburied / Fightback visual package.
 
 Not safe: screenshots, transcripts, recordings, storage records, logs, private
 dashboards, personal records, or deployment details.
@@ -88,7 +90,9 @@ Not safe as a product page, public API page, sales page, or download page.
 
 ## GitHub Safe / Not Safe
 
-Safe after Faith review as docs-only.
+Safe as the docs-only public surface already published under
+`thefayth/unburied-listening-worker`, with continued review required before any
+broader public release.
 
 Not safe if source, storage, runtime, deployment, or receipt folders are pushed.
 

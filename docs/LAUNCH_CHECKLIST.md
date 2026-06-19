@@ -66,8 +66,14 @@ this workspace and Faith explicitly instructed updates under the revised brief.
 
 ## Secrets Scan Result
 
-Staging files should be scanned before any repo creation. The source project
-contains sensitive categories and must not be pushed as a whole.
+The public export must be scanned before each push. The source project contains
+sensitive categories and must not be pushed as a whole.
+
+Latest maintained boundary: push only from `_github_public_export/`; never from
+the private project root.
+
+Latest public-export sensitive-pattern scan: no hits in README, ownership
+files, docs, assets, or WordPress draft files.
 
 ## License Status
 
@@ -96,8 +102,12 @@ Draft-only. Do not publish.
 
 ## Recommended Repo Visibility
 
-Public docs-only repo after Faith review, or keep private and fold into a
-larger Big Stick/Unburied project page.
+Public docs-only repository, with no source code and no public product access.
+
+## GitHub CLI Note
+
+The local `gh` keyring token may need re-authentication for future metadata
+changes. Normal git remote publishing remains scoped to `_github_public_export/`.
 
 ## Recommended Repo Name
 
